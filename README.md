@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Raval</h1>
 <h3 align="center">Code is like humor. When you have to explain it, it’s bad.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravalsahil2410&label=Profile%20views&color=0e75b6&style=flat" alt="ravalsahil2410" /> </p>
-
 - 🌱 I’m currently learning **Tailwind CSS, JavaScript, Data Structure And Algorithms.**
 
 <h3 align="left">Connect with me:</h3>
