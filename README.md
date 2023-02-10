@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Raval</h1>
 <h2 align="center">Code is like humor. When you have to explain it, it’s bad.</h2>
 
-- 🌱 I’m currently learning **JavaScript, Python, Data Structure And Algorithms.**
+- 🌱 I’m currently learning **JavaScript, Python,Machine Learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
