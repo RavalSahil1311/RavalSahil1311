@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravalsahil2410" alt="ravalsahil2410" /></a> </p> -->
 
-- 🌱 I’m currently learning **Python, JavaScript,Machine Learning .**
+- 🌱 I’m currently learning **Python, Machine Learning .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
