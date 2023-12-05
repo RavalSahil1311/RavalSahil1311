@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sahil raval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil raval" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahil-raval-660790243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil raval" height="30" width="40" /></a>
 <a href="https://instagram.com/ravalsahil1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravalsahil1311" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ravalsahil1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravalsahil1311" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ravalsahil1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ravalsahil1311" height="30" width="40" /></a>
